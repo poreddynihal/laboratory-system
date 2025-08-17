@@ -1,0 +1,3 @@
+([('main',
+   '/Users/pinkpanther/Desktop/Capstone Project/dist/main',
+   'EXECUTABLE')],)
